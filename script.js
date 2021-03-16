@@ -1,4 +1,4 @@
-/* var age = +prompt('Введите свой возрост');
+var age = +prompt('Введите свой возрост');
 
 if (age >= 0 && age <= 18) {
     alert('Вы еще молоды. Вам нужно учится');
@@ -12,9 +12,9 @@ if (age >= 0 && age <= 18) {
 
 else {
     alert('Ошибка');
-} */
+}
 
-// var time = +prompt('Введите время от 0 до 23');
+var time = +prompt('Введите время от 0 до 23');
 
 /* if (time == 0) {
     alert('12 часов ночи');
@@ -70,7 +70,7 @@ else {
 } */
 
 
-/* switch (time) {
+switch (time) {
     case 0:
         alert('12 часов ночи');
         break;
@@ -147,4 +147,4 @@ else {
     default:
         alert('Ошибка');
         break;
-} */
+}
